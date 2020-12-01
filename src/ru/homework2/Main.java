@@ -97,5 +97,7 @@ public class Main {
         System.out.println("Максимальное число " + maximum);
         System.out.println("Минимальное число " + minimum);
 
+
+
     }
 }
